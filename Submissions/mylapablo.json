@@ -1,0 +1,16 @@
+{
+  "name": "Myla Pablo",
+  "img": "[YOUR_IMG_URL]",
+  "email": "pablomyla@gmail.com",
+  "links": {
+    "website": "[YOUR_WEBSITE_URL]",
+    "linkedin": "https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>",
+    "github": "https://github.com/<YOUR_GH_USERNAME>"
+  },
+  "jobTitle": "[YOUR_TITLE]",
+  "location": {
+    "city": "[YOUR_CITY]",
+    "state": "[YOUR_STATE_OR_PROVINCE]",
+    "country": "[YOUR_COUNTRY]"
+  }
+}
